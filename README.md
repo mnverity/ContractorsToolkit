@@ -1,2 +1,2 @@
-# ContractorsToolkit
-This repo contains a number of tools to assist contractors in making decisions around their rates etc.
+# EmployeesToolkit
+This repo contains a number of tools to assist employees whether working direct or as contractors
